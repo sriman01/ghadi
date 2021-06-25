@@ -1,0 +1,77 @@
+body{
+   margin:0;
+    text-align:center;
+    font-family:'Merriwhether',serif;
+   
+}
+.skill-row{
+    width:50%;
+    margin:0 auto;
+    text-align: left;
+    line-height: 2;
+}
+h1{
+    margin:50px auto 0 auto;  /*centered horizontally */    
+   font-family:'Sacramento',cursive;
+   font-size:5rem;
+   color: #d11010;
+}
+h2{
+    font-family:'Montserrat',sans-serif;
+    font-size: 1.5rem;
+    color: #d82506;
+    font-weight: bold;
+}
+h3{
+    color:#66BFBF;
+    font-family:'Montserrat',sans-serif;
+    font-weight: bold;
+}
+div{
+    background-color:aqua;
+   
+   
+}
+ .top-cloud{
+    position:absolute;
+    top:50px;
+    right: 300px;
+   
+}
+ .bottom-cloud{
+    position:absolute;     /*to make out of the html flow*/
+   left:300px;
+   bottom:300px;
+} 
+
+.top-container{
+    background-color:aqua ;
+    position:relative;
+    padding-top:100px;
+}
+
+.bottom-container{
+    background-color:aqua;
+    line-height: 4;
+    padding-bottom: 1em;
+    
+
+} 
+
+.my-image{
+    width:20%;
+    margin-top: 2em;
+   
+}
+.code-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+ 
+}
+.chilli-img{
+    width:25%;
+    float:right;
+    margin-right: 30px;
+   
+}
